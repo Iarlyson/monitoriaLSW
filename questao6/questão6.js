@@ -1,6 +1,7 @@
+//6ª Questão
 function resjustesalario() {
 
-    var salario=document.getElementById("salario").value;;
+    var salario=document.getElementById("salario").value;
 
 if(salario<=280){
     var NovoSalario=salario*1.2;
